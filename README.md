@@ -6,7 +6,7 @@ Hi there, I'm Ansh 👋
 </h3>
 
 <h2 align="center">
-I'm a Final year Computer Engineering Student interested Web Development 💻, Competitive Programming <img src="https://user-images.githubusercontent.com/60037118/201992898-7b3d2ab5-c51d-466f-81fa-e29c402a42dd.png" width="40">
+I'm a Graduated Computer Engineering Currently Working At Velotio Technologies interested Web Development 💻, Competitive Programming <img src="https://user-images.githubusercontent.com/60037118/201992898-7b3d2ab5-c51d-466f-81fa-e29c402a42dd.png" width="40">
 , and  Singing <img src="https://user-images.githubusercontent.com/60037118/201992730-66f94ad0-701a-4514-9c07-7ae32cd18842.png" width="40">
 </h2> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=govardhanshah456&label=Profile%20views&color=0e75b6&style=flat" alt="govardhanshah456" /> </p>
