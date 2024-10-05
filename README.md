@@ -33,7 +33,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 - 📫 How to reach me **govardhanshah456@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18xt7cfbLn1UG_x1Lzb82qugzJgpppSHN/view?usp=sharing](https://drive.google.com/file/d/18xt7cfbLn1UG_x1Lzb82qugzJgpppSHN/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bt7aNg_UfRKugxvzccGarijsRju8thTJ/view?usp=drive_link)
 
 ## 💼 Technical Skills
 - ### Languages:
